@@ -70,8 +70,8 @@
     <fields>
         <fullName>Accenture__c</fullName>
         <externalId>false</externalId>
-        <label>Accenture</label>
-        <length>30</length>
+        <label>Accenture Label Changed</label>
+        <length>50</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
