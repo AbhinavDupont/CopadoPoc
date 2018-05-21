@@ -8,5 +8,4 @@ public class AccountOperations {
         a.Website = 'www.copa.do';//US1
         return a;
     }
-    
 }
