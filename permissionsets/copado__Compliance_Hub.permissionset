@@ -7,6 +7,11 @@
     <description>Provide access to the Copado Compliance Hub features.</description>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Accenture__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.AccountNumber</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -53,6 +58,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.DunsNumber</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.External_Id__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
