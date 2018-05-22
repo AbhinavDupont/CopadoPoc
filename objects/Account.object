@@ -70,8 +70,8 @@
     <fields>
         <fullName>Accenture__c</fullName>
         <externalId>false</externalId>
-        <label>Accenture</label>
-        <length>30</length>
+        <label>Accenture Label Changed</label>
+        <length>50</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
@@ -153,16 +153,6 @@
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
-    </fields>
-    <fields>
-        <fullName>Delete_Me__c</fullName>
-        <externalId>false</externalId>
-        <label>Delete Me</label>
-        <length>10</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Description</fullName>
